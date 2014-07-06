@@ -92,8 +92,6 @@ type Instruction struct {
 	Mips  MipsInstruction
 	X86   X86Instruction
 	PPC   PPCInstruction
-	SysZ  SysZInstruction
-	Sparc SparcInstruction
 }
 
 // Called by the arch specific decomposers
@@ -233,10 +231,6 @@ func (e Engine) Disasm(input []byte, address, count uint64) ([]Instruction, erro
 			return decomposeX86(insns), nil
 		case CS_ARCH_PPC:
 			return decomposePPC(insns), nil
-		case CS_ARCH_SYSZ:
-			return decomposeSysZ(insns), nil
-		case CS_ARCH_SPARC:
-			return decomposeSparc(insns), nil
 		default:
 			return []Instruction{}, ErrArch
 		}

@@ -1,0 +1,958 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"W",
+				"Write	int, error ƒ"
+			],
+			[
+				"Error",
+				"ErrorResponseWriter	struct ʈ"
+			],
+			[
+				"Respo",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"P",
+				"Platform	string ν"
+			],
+			[
+				"statusB",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"Vers",
+				"VersionInfo	struct ʈ"
+			],
+			[
+				"S",
+				"Scheme	string ν"
+			],
+			[
+				"U",
+				"URL	*url.URL ν"
+			],
+			[
+				"clen",
+				"client_status_path	 Ɩ"
+			],
+			[
+				"re",
+				"register_path	 Ɩ"
+			],
+			[
+				"F",
+				"FormValue	string ƒ"
+			],
+			[
+				"u",
+				"upload_signature_verifier	wire.SignatureVerifier ν"
+			],
+			[
+				"err",
+				"errors	 package ρ"
+			],
+			[
+				"R",
+				"RemoteAddr	string ν"
+			],
+			[
+				"par",
+				"parseStrParam	string, error ƒ"
+			],
+			[
+				"For",
+				"Form	url.Values ν"
+			],
+			[
+				"Re",
+				"Request	struct ʈ"
+			],
+			[
+				"Si",
+				"SignatureVerifier	S ν"
+			],
+			[
+				"Clien",
+				"ClientLicenseEntity	struct ʈ"
+			],
+			[
+				"prod",
+				"prod-patch"
+			],
+			[
+				"version",
+				"versionGet	 ƒ"
+			],
+			[
+				"versio",
+				"version_get_path	 Ɩ"
+			],
+			[
+				"Hand",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"vers",
+				"version_info	VersionUploadInfo ν"
+			],
+			[
+				"ver",
+				"version_info	VersionUploadInfo ν"
+			],
+			[
+				"Fro",
+				"FormValue	string ƒ"
+			],
+			[
+				"N",
+				"Now	time.Time ƒ"
+			],
+			[
+				"blob",
+				"blob_info	blobstore.BlobInfo ν"
+			],
+			[
+				"Version",
+				"VersionUploadEntity	struct ʈ"
+			],
+			[
+				"beta",
+				"beta-patch"
+			],
+			[
+				"htt",
+				"httpRecover	 ƒ"
+			],
+			[
+				"StatusTe",
+				"StatusTemporaryRedirect	 Ɩ"
+			],
+			[
+				"versionU",
+				"versionUploadConfirm	 ƒ"
+			],
+			[
+				"sig",
+				"signed_request	wire.SignedRequest ν"
+			],
+			[
+				"ST",
+				"Stack	[]byte ƒ"
+			],
+			[
+				"M",
+				"MultiWriter	io.Writer ƒ"
+			],
+			[
+				"pub",
+				"pub_key_filename	string ν"
+			],
+			[
+				"ra",
+				"rawTimestamp	string ν"
+			],
+			[
+				"r",
+				"rawTimestamp	string ν"
+			],
+			[
+				"RA",
+				"RawSignature	string ν"
+			],
+			[
+				"B",
+				"Bytes	[]byte ƒ"
+			],
+			[
+				"ne",
+				"NewBufferString	*bytes.Buffer ƒ"
+			],
+			[
+				"Ver",
+				"VersionUploadPayload	struct ʈ"
+			],
+			[
+				"in",
+				"info_buf	*bytes.Buffer ν"
+			],
+			[
+				"raw",
+				"raw_info	string ν"
+			],
+			[
+				"time",
+				"timestamp	*VersionUploadTimestamp ν"
+			],
+			[
+				"Ra",
+				"RawTimestamp	string ν"
+			],
+			[
+				"Parse",
+				"ParsePKIXPublicKey	pub interface{}, err error ƒ"
+			],
+			[
+				"Ha",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Res",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"go",
+				"go_appengine"
+			],
+			[
+				"get",
+				"getAccessTokenRequestResponse	function"
+			],
+			[
+				"lo",
+				"loads	function"
+			],
+			[
+				"me",
+				"message	param"
+			],
+			[
+				"priva",
+				"private_key_filename"
+			],
+			[
+				"en",
+				"encoded_signature	statement"
+			],
+			[
+				"privat",
+				"private_key_filename	param"
+			],
+			[
+				"enc",
+				"encodeBody	function"
+			],
+			[
+				"du",
+				"dumps	function"
+			],
+			[
+				"url",
+				"urlsafe_b64encode	function"
+			],
+			[
+				"trad",
+				"trade	Trade ν"
+			],
+			[
+				"tra",
+				"trade	Trade ν"
+			],
+			[
+				"Q",
+				"quantity	uint64 ν"
+			],
+			[
+				"trade",
+				"tradeBundle	struct ʈ"
+			],
+			[
+				"Tr",
+				"tradeBundle	struct ʈ"
+			],
+			[
+				"tr",
+				"tradeBundle	struct ʈ"
+			],
+			[
+				"Tra",
+				"TradeBundle	interface ¡"
+			],
+			[
+				"top",
+				"top_pair_trade_quantity	 ν"
+			],
+			[
+				"top_pair_tra",
+				"top_pair_trade_quantity	 ν"
+			],
+			[
+				"s",
+				"SellPrice	float64 ƒ"
+			],
+			[
+				"PR",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"bu",
+				"buyer_orders	wikiprice.Orders ν"
+			],
+			[
+				"oup",
+				"output_filename	*string ν"
+			],
+			[
+				"card",
+				"card_string	string ν"
+			],
+			[
+				"n",
+				"NewBufferString	*bytes.Buffer ƒ"
+			],
+			[
+				"se",
+				"set2card2details	Set2card2details ν"
+			],
+			[
+				"set",
+				"Set2card2details	s ν"
+			],
+			[
+				"Card",
+				"CardDetails	struct ʈ"
+			],
+			[
+				"json",
+				"jsonable_map	map[string]map[string]CardDetails ν"
+			],
+			[
+				"Ca",
+				"CardDetails	struct ʈ"
+			],
+			[
+				"to",
+				"top_pair_trade_value	 ν"
+			],
+			[
+				"top_",
+				"top_pair_trade_value	 ν"
+			],
+			[
+				"Set",
+				"Set2card2details	map[string]map[wikiprice.Card]wikiprice.CardDetails ʈ"
+			],
+			[
+				"Bu",
+				"Buyer	struct ʈ"
+			],
+			[
+				"seller",
+				"seller_orders	wikiprice.Orders ν"
+			],
+			[
+				"m",
+				"Min	float64 ƒ"
+			],
+			[
+				"Bot",
+				"BotInfo	struct ʈ"
+			],
+			[
+				"Sel",
+				"Seller	struct ʈ"
+			],
+			[
+				"Car",
+				"CardDetailsResponse	struct ʈ"
+			],
+			[
+				"Sell",
+				"SellOrder	struct ʈ"
+			],
+			[
+				"Buy",
+				"BuyOrder	struct ʈ"
+			],
+			[
+				"Pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"func",
+				"func (*trade)	func (...) {...} ʂ"
+			],
+			[
+				"C",
+				"Card	struct ʈ"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Open",
+				"Open	file *os.File, err error ƒ"
+			],
+			[
+				"ma",
+				"max_buyer	wikiprice.Buyer ν"
+			],
+			[
+				"b",
+				"Buyer	struct ʈ"
+			],
+			[
+				"Wr",
+				"WriteString	ret int, err error ƒ"
+			],
+			[
+				"Ste",
+				"Stderr	*os.File ν"
+			],
+			[
+				"car",
+				"CardDetailsMap	map[string]map[string]CardDetails ʈ"
+			],
+			[
+				"wr",
+				"WriteString	ret int, err error ƒ"
+			],
+			[
+				"res",
+				"response	*CardDetailsResponse ν"
+			],
+			[
+				"Wiki",
+				"WikipriceResponseData	struct ʈ"
+			],
+			[
+				"A",
+				"Args	[]string ƒ"
+			],
+			[
+				"out",
+				"output_filename	*string ν"
+			],
+			[
+				"New",
+				"NewEncoder	*json.Encoder ƒ"
+			],
+			[
+				"De",
+				"NewDecoder	*json.Decoder ƒ"
+			],
+			[
+				"Un",
+				"Unmarshaler	interface ¡"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			],
+			[
+				"w",
+				"Write	n int, err error ƒ"
+			],
+			[
+				"fun",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"st",
+				"Stderr	*os.File ν"
+			],
+			[
+				"List",
+				"ListCards	response ListCardsResponse, err error ƒ"
+			],
+			[
+				"Sprin",
+				"Sprintf	string ƒ"
+			],
+			[
+				"buid",
+				"buildCardDetailsURL	request_url *url.URL, err error ƒ"
+			],
+			[
+				"buildC",
+				"buildListCardsURL	request_url *url.URL, err error ƒ"
+			],
+			[
+				"ListCard",
+				"ListCardsResponse	struct ʈ"
+			],
+			[
+				"buildL",
+				"buildListSetsURL	*url.URL ƒ"
+			],
+			[
+				"http",
+				"http_resp	*http.Response ν"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"buildli",
+				"buildListSetsURL	request_url *url.URL, err error ƒ"
+			],
+			[
+				"for",
+				"FormatUint	string ƒ"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "engine_constants.go",
+			"settings":
+			{
+				"buffer_size": 3649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "engine.go",
+			"settings":
+			{
+				"buffer_size": 7552,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gosub",
+				"GoSublime: User Settings"
+			],
+			[
+				"gosus",
+				"GoSublime: Show documentation hint"
+			],
+			[
+				"san",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sanity",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"gosublime",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prettyy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gosubli",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd/wire/SignatureVerifier.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd/wire/SignedRequest.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/main.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd/wire/wire.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/index.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/Makefile",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/.gitignore",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd-backend.sublime-project",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/README.md",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd/ocd-backend.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/wire/SignedRequest.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/ocd-backend.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/version/version.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/wire/SignatureVerifier.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/data/VersionInfo.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocdbackend/VersionInfo.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/wire/SignedRequest.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/wire/SignatureVerifier.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/VersionInfo.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/version/version.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd-backend.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/version/upload.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/test.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.gamma.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.prod.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.base.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.beta.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/app.yaml.base.yaml",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/ocd-backend.",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/hello.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/wire/wire.go",
+		"/Users/jamesribe/go_appengine/gopath/src/github.com/offcamberdata/ocd-backend/wire/timestamp.go",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Local/Session.sublime_session",
+		"/Users/jamesribe/git/ocd-backend/test.go",
+		"/Users/jamesribe/git/ocd-backend/hello.go",
+		"/Users/jamesribe/git/ocd-backend/.gitignore",
+		"/Users/jamesribe/git/ocd-backend/app.yaml",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jamesribe/Sublime Projects/ocd-backend.sublime-project",
+		"/Users/jamesribe/Sublime Projects/ocd-backend.sublime-",
+		"/Users/jamesribe/help",
+		"/Users/jamesribe/git/ocd-backend/service-key.pem",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/trade-finder/trade-finder",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/snapshot-converter/snapshot-converter",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/price-dumper/price-dumper",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/price-dumper/price-snapshot-VMA-2014-06-19-18:23:44.json",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/snapshot-converter/snapshot-THS-VMA-2014-06-19.json",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/.gitignore",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/wikiprice/constants.go",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/constants.go",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/User/mtgo-trade-finder.sublime-project",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/trade-finder/main.go",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/GoSublime/README.md",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/mtgoTradeFinder/constants.go",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/main.go",
+		"/Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/main/main.go",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/User/GoSublime-aux.sublime-settings",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"int64",
+			"ConfirmUploadPath",
+			"get_v1_path",
+			"err",
+			"confirm_upload_path",
+			"upload_path",
+			"client_status_path",
+			"ocd.SignatureVerifier",
+			"SignatureVerifier",
+			"version_info",
+			"MachineFingerPrint",
+			"strconv.Atoi(req.FormValue(",
+			"Upload",
+			"Get_v1",
+			"Get_v1_path",
+			"Upload_path",
+			"Confirm_upload_path",
+			"ConfirmUpload",
+			"ocdbackend",
+			"httpRecover",
+			"buildVersionUploadInfoFromOldParams",
+			"versionGet",
+			"version_get_path",
+			"VersionUploadInfo",
+			"VersionUploadEntity",
+			"int64",
+			"version_upload_url",
+			"version_upload_confirm_url",
+			"writer",
+			"error",
+			"v",
+			"buf",
+			"env",
+			"card_name",
+			"seller.BotInfo",
+			"bot2card2orders",
+			"BuyListing",
+			"SellListing",
+			"CardDetailsMap",
+			"SellInfo",
+			"byValue",
+			"_trade",
+			"trade",
+			"CardInfoMap",
+			"flag.Args()",
+			"esponse.Card.Set_name",
+			"go_err",
+			"routine_err",
+			"Bot",
+			"return",
+			"*url.URL, error)",
+			"uint",
+			"*url.URL",
+			"BotInfo",
+			"Pac"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "engine_constants.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1532,
+								1532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "engine.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7159,
+								7159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2907.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/jamesribe/Library/Application Support/Sublime Text 3/Packages/User":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/analyzer":
+	{
+		"height": 188.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/price-dumper":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/snapshot-converter":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/trade-finder":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/jamesribe/golang/src/github.com/Manbeardo/mtgo-trade-finder/wikiprice":
+	{
+		"height": 250.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 414.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gapstone.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/mtgo-trade-finder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
